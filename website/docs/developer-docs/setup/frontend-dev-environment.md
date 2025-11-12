@@ -26,7 +26,7 @@ If you're focusing solely on frontend development, you can create a minimal deve
     cd authentik
     ```
 
-2. Create a `.env` file in the root of the repository to configure the Docker Compose environment.
+2. Run the following to create a `.env` file in the `lifecycle/container` directory of the repository to configure the Docker Compose environment.
 
     ```shell
     echo "PG_PASS=$(openssl rand -base64 36 | tr -d '\n')" >> ./lifecycle/container/.env
