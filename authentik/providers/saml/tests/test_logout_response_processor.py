@@ -35,8 +35,10 @@ class TestLogoutResponse(TestCase):
             relay_state="test-relay-state",
         )
 
-        processor = LogoutResponseProcessor(self.provider, logout_request)
-        response_xml = processor.build_response(status="Success", destination=self.provider.sls_url)
+        processor = LogoutResponseProcessor(
+            self.provider, logout_request, destination=self.provider.sls_url
+        )
+        response_xml = processor.build_response(status="Success")
 
         # Parse and verify
         root = ElementTree.fromstring(response_xml)
