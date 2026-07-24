@@ -1,0 +1,19 @@
+authentik/providers/scim/tests/test_user.py
+  s_d10daf1fcd0358::t_9bd9639d19e281 15,544-572
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cd114a129dd266bce93b2f83d871e66281e98677",
+  "prompts": {},
+  "sessions": {
+    "s_d10daf1fcd0358": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_06e0c08efffe0MnLjYrgpifyG5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
