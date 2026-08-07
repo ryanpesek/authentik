@@ -1,0 +1,35 @@
+authentik/enterprise/stages/source/migrations/0002_sourcestage_resume_on_match_failures.py
+  s_f54762c5d0a975::t_a6576e0e403add 1,13-19
+authentik/enterprise/stages/source/tests.py
+  s_f54762c5d0a975::t_9868c2d1ff9354 14,19,36,55-56,61,66-68,85-99,130,185-209,217,276-281
+blueprints/schema.json
+  s_f54762c5d0a975::t_957fe06e902bb2 10068-10078
+packages/client-ts/src/models/PatchedSourceStageRequest.ts
+  s_f54762c5d0a975::t_bdf588e48466e5 15-20,46-47,50,77-78,80-82,102-107
+packages/client-ts/src/models/ResumeOnMatchFailuresEnum.ts
+  s_f54762c5d0a975::t_5a512befbc2bb2 1-59
+packages/client-ts/src/models/SourceStage.ts
+  s_f54762c5d0a975::t_321652c26d60dd 17-21,84-85,88,148-149,151-153,176-181
+packages/client-ts/src/models/SourceStageRequest.ts
+  s_f54762c5d0a975::t_6db25664639095 15-20,46-47,50,77-78,80-82,102-107
+packages/client-ts/src/models/index.ts
+  s_f54762c5d0a975::t_53b1db86676cec 757
+schema.yml
+  s_f54762c5d0a975::t_7e007c8d8597c3 53740-53744,56625-56628,59123-59127,59152-59156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8c543623cb505d56446287b8ede317372bfc278f",
+  "prompts": {},
+  "sessions": {
+    "s_f54762c5d0a975": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_06df1ef58ffe0gGx1Mlq0CEiCo",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
