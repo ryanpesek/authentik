@@ -1,0 +1,31 @@
+blueprints/schema.json
+  s_f54762c5d0a975::t_cd314a57888ece 10067-10071
+packages/client-ts/src/apis/StagesApi.ts
+  s_f54762c5d0a975::t_1446afd6cf76b3 1380,14371-14375
+packages/client-ts/src/models/PatchedSourceStageRequest.ts
+  s_f54762c5d0a975::t_9649e37c33586b 39-44,71-74,94
+packages/client-ts/src/models/SourceStage.ts
+  s_f54762c5d0a975::t_e7e47a7e605dab 78-83,143-146,169
+packages/client-ts/src/models/SourceStageRequest.ts
+  s_f54762c5d0a975::t_59477748a76c9d 39-44,71-74,94
+schema.yml
+  s_f54762c5d0a975::t_ab62fa44618219 33801-33804,53744-53747,59122-59125,59150-59153
+web/src/admin/stages/source/SourceStageForm.ts
+  s_f54762c5d0a975::t_8aaa8f1d960eb5 1,75-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7a031c8f4334de8bc1c01f49dad398a3ec493be1",
+  "prompts": {},
+  "sessions": {
+    "s_f54762c5d0a975": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_06df1ef58ffe0gGx1Mlq0CEiCo",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
