@@ -1,0 +1,49 @@
+packages/client-ts/src/models/RedirectChallenge.ts
+  s_444b531d000d33::t_0f7bb3ec3e2078 55-60,89-90,112
+packages/client-go/model_contextual_flow_info.go
+  s_444b531d000d33::t_4d36ca154a8217 29,43-44,53-54,213-244,266-268,318
+schema.yml
+  s_444b531d000d33::t_925f290bae7f12 36921-36923,53561-53563
+web/src/flow/stages/RedirectStage.ts
+  s_444b531d000d33::t_6582dccef50b96 6,82,91-94
+authentik/flows/views/executor.py
+  s_444b531d000d33::t_7d7b31538ccc6b 50,111,391-393,403,411-414,558-561,582
+packages/client-go/model_redirect_challenge.go
+  s_444b531d000d33::t_3d8740b66eeb62 29,46-47,60-61,217-248,272-274,323
+authentik/providers/saml/views/flows.py
+  s_444b531d000d33::t_2b58d7dda32dfa 7,59-62,119-124,152
+authentik/policies/tests/test_views.py
+  s_444b531d000d33::t_f865239d606fb7 12-13,119-141
+packages/client-ts/src/models/ContextualFlowInfo.ts
+  s_444b531d000d33::t_75306eac57cdab 59-64,96-97,119
+web/src/flow/controllers/FlowMultitabController.ts
+  s_444b531d000d33::t_00296ac3686d43 3,52,54,56-57
+authentik/flows/planner.py
+  s_444b531d000d33::t_d8490d410b5cf2 46-47,168
+authentik/providers/saml/tests/test_auth_n_request.py
+  s_444b531d000d33::t_e1cb19c1d01390 32,35-40,129-226,278-282,299-308,310-311,317
+authentik/flows/tests/test_stage_views.py
+  s_444b531d000d33::t_a828c037f286ef 12,48-63
+packages/client-rust/src/models/contextual_flow_info.rs
+  s_444b531d000d33::t_77bcc9a7bf8348 31-35,50
+authentik/policies/views.py
+  s_444b531d000d33::t_3aa149c9376cb0 18,63-66,99
+packages/client-rust/src/models/redirect_challenge.rs
+  s_444b531d000d33::t_e87311cdc4c382 26-30,42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fd351c3161b0137d0f22ad64841607b53a172893",
+  "prompts": {},
+  "sessions": {
+    "s_444b531d000d33": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fd8e2c1b7ffezyxG8aFGA62ZWt",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
