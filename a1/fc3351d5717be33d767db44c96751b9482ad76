@@ -1,0 +1,47 @@
+authentik/flows/stage.py
+  s_444b531d000d33::t_5298a32e73536a 34-38,218-220
+authentik/flows/views/executor.py
+  s_444b531d000d33::t_53a4f2bd973637 50,111,399-401,411,419-422,566-569,590
+authentik/policies/tests/test_views.py
+  s_444b531d000d33::t_fc7bb04229dcb7 12-13,119-141
+authentik/policies/views.py
+  s_444b531d000d33::t_e45bfbb4dbb121 18,63-66,99
+authentik/providers/saml/tests/test_auth_n_request.py
+  s_444b531d000d33::t_19caa47b71fb1f 32,35-40,129-226,278-282,299-308,310-311,317
+packages/client-go/model_contextual_flow_info.go
+  s_444b531d000d33::t_7225420c39c139 30,44-45,54-55,246-277,302-304,355
+packages/client-go/model_redirect_challenge.go
+  s_444b531d000d33::t_635162931337df 29,46-47,60-61,217-248,272-274,323
+packages/client-rust/src/models/contextual_flow_info.rs
+  s_444b531d000d33::t_b30a6bc23732db 33-37,53
+packages/client-rust/src/models/redirect_challenge.rs
+  s_444b531d000d33::t_060c40920a92b1 26-30,42
+packages/client-ts/src/models/ContextualFlowInfo.ts
+  s_444b531d000d33::t_638f8136f6fbf2 67-72,116-117,143
+packages/client-ts/src/models/RedirectChallenge.ts
+  s_444b531d000d33::t_5d85e6bbfa9e43 55-60,89-90,112
+schema.yml
+  s_444b531d000d33::t_83209e88cd89d6 38800-38802,56174-56176
+web/src/flow/controllers/FlowMultitabController.ts
+  s_444b531d000d33::t_47e9221b26d5d8 3,52,54,56-57
+web/src/flow/stages/RedirectStage.ts
+  s_444b531d000d33::t_c32f5dcda584e9 6,82,91-94
+web/test/unit/continuous-login.test.ts
+  s_444b531d000d33::t_411c85bc184ecf 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a1fc3351d5717be33d767db44c96751b9482ad76",
+  "prompts": {},
+  "sessions": {
+    "s_444b531d000d33": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fd8e2c1b7ffezyxG8aFGA62ZWt",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
