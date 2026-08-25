@@ -1,0 +1,19 @@
+web/src/flow/FlowExecutor.browser.test.ts
+  s_ab97a449421c58::t_3683b3ef799625 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9f7c0052500153d9495c03e5b0583eeb70c473b7",
+  "prompts": {},
+  "sessions": {
+    "s_ab97a449421c58": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fc95c7b81ffe3AxACdDddhhk7y",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
