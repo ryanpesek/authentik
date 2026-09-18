@@ -1,0 +1,21 @@
+authentik/tasks/tests/test_broker.py
+  s_3b97909786aa3f::t_7bdbf689427f55 2,4,21-94,192-255
+packages/django-dramatiq-postgres/django_dramatiq_postgres/broker.py
+  s_3b97909786aa3f::t_3cf2bc84088890 414-424,451-452
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cdf26336a487ec69d2a2d371d9b49fe3a95abaa2",
+  "prompts": {},
+  "sessions": {
+    "s_3b97909786aa3f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f4da9aa57fferTyi0JYD93YXTu",
+        "model": "claude-watermelon-eap"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
