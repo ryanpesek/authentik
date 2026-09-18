@@ -1,0 +1,23 @@
+authentik/lib/sync/outgoing/tasks.py
+  s_b5e779e07c48a6::t_a447991e70fc9a 49-58,60-61,201-221
+authentik/policies/engine.py
+  s_b5e779e07c48a6::t_82226f0346854b 10,475-480,485,491,502-503,505-512
+authentik/policies/tests/test_engine_filter.py
+  s_b5e779e07c48a6::t_52c24e6458b464 280-373
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9c701b51554f00f84f893031da6cd9ed28679de7",
+  "prompts": {},
+  "sessions": {
+    "s_b5e779e07c48a6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f4b33beddffeUr90H1uZGfEqWr",
+        "model": "claude-watermelon-eap"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
