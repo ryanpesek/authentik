@@ -1,0 +1,19 @@
+authentik/tasks/tests/test_broker.py
+  s_3b97909786aa3f::t_af5c468840f237 1-2,5-7,10,14-16,28,34,45-62,64,69-71,76-77,84,95,218-222,237-254,281-283,285-287,289-293,295-297,299-327
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3b6a91a6d9b861bd216de65b28760201c9fbf1b5",
+  "prompts": {},
+  "sessions": {
+    "s_3b97909786aa3f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f4da9aa57fferTyi0JYD93YXTu",
+        "model": "claude-watermelon-eap"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
