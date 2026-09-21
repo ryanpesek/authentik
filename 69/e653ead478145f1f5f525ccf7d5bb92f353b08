@@ -1,0 +1,25 @@
+authentik/stages/authenticator_validate/challenge.py
+  s_ba4aa8fae3fde5::t_49a6f23bbf426c 70-81,89,119
+authentik/stages/authenticator_validate/stage.py
+  s_ba4aa8fae3fde5::t_2f90ba7feec3a4 40,266,430-431
+authentik/stages/authenticator_validate/tests/test_webauthn.py
+  s_ba4aa8fae3fde5::t_ccbb4e874a831d 11,652-768
+authentik/stages/authenticator_webauthn/stage.py
+  s_ba4aa8fae3fde5::t_99a2b881f3e2d6 240-242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "69e653ead478145f1f5f525ccf7d5bb92f353b08",
+  "prompts": {},
+  "sessions": {
+    "s_ba4aa8fae3fde5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f438898d8ffebIIT6A9dYumLEI",
+        "model": "claude-watermelon-eap"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
