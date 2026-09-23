@@ -1,0 +1,19 @@
+authentik/core/tests/test_users_api.py
+  s_f42109cb0aa93e::t_664107db38e066 7-8,74-125,130,134-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ed604d2429c1595794098b8a8952404f3ccb645b",
+  "prompts": {},
+  "sessions": {
+    "s_f42109cb0aa93e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f3ac0be41ffeyHxUDHGTJZzPiI",
+        "model": "claude-wafer-eap"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
