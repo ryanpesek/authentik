@@ -1,0 +1,23 @@
+authentik/enterprise/providers/ws_federation/views.py
+  s_9adc0930c75c31::t_710d2586d79526 136,139-144
+authentik/providers/saml/models.py
+  s_9adc0930c75c31::t_ff5d5057507962 3,400-421
+authentik/providers/saml/views/flows.py
+  s_9adc0930c75c31::t_7ca87fd432072f 73,76-82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1590f0b6bdcca07ea19b422d8bf48e7fbda86834",
+  "prompts": {},
+  "sessions": {
+    "s_9adc0930c75c31": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e772565deffe6L25KaJN5n0bRS",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ryan Pesek <rpesek@cloudflare.com>"
+    }
+  }
+}
